@@ -58,6 +58,7 @@ const displayDetailsMeal = meal => {
     mealDetails.innerHTML = `
     
     <img class="img-fluid" src="${meal.strMealThumb}" >
+    <p> my favorite chicken friy </p>
     `
 }
 
